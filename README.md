@@ -6,6 +6,9 @@ My full-stack Projects @ zollsoft GmbH:<br>
 Online-Terminkalender. Live Kundebeispiel: https://app.arzt-direkt.de/privat-orthopaedie-paul/booking<br>
 Online-Videosprechstunde. Live Kundebeispiel: https://app.arzt-direkt.de/hautpraxis-jena<br>
 <br>
+Repositories from my PhD:<br>
+https://github.com/tomsegal89?tab=repositories<br>
+<br>
 LinkedIn https://www.linkedin.com/in/tomsegal89<br>
 PhD Thesis https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3182232<br>
 My 3D Art http://www.tomsegal.com<br>
