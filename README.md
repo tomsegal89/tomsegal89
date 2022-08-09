@@ -1,8 +1,8 @@
 I am a full-stack developer for the medical sector living in Berlin.<br>
 I graduated with a PhD in Nuclear Physics from the Max Planck Institute in Heidelberg.<br>
-In my free time I create 3D Digital Art.
-
-My Projects @ zollsoft GmbH:
+In my free time I create 3D Digital Art.<br>
+<br>
+My Projects @ zollsoft GmbH:<br>
 Online-Terminkalender. Live Kundebeispiel: https://app.arzt-direkt.de/privat-orthopaedie-paul/booking
 Online-Videosprechstunde. Live Kundebeispiel: https://app.arzt-direkt.de/hautpraxis-jena
 
