@@ -3,9 +3,9 @@ I graduated with a PhD in Nuclear Physics from the Max Planck Institute in Heide
 In my free time I create 3D Digital Art.<br>
 <br>
 My Projects @ zollsoft GmbH:<br>
-Online-Terminkalender. Live Kundebeispiel: https://app.arzt-direkt.de/privat-orthopaedie-paul/booking
-Online-Videosprechstunde. Live Kundebeispiel: https://app.arzt-direkt.de/hautpraxis-jena
-
-LinkedIn https://www.linkedin.com/in/tomsegal89/
-PhD Thesis https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3182232
-My 3D Art http://www.tomsegal.com
+Online-Terminkalender. Live Kundebeispiel: https://app.arzt-direkt.de/privat-orthopaedie-paul/booking<br>
+Online-Videosprechstunde. Live Kundebeispiel: https://app.arzt-direkt.de/hautpraxis-jena<br>
+<br>
+LinkedIn https://www.linkedin.com/in/tomsegal89<br>
+PhD Thesis https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3182232<br>
+My 3D Art http://www.tomsegal.com<br>
